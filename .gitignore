@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+portfolio_model/*.pkl
+portfolio_model/*.csv
+.DS_Store
+Thumbs.db
