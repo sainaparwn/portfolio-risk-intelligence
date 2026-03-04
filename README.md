@@ -118,7 +118,7 @@ pip install -r requirements.txt
 
 ### 3. Run the Jupyter Notebook
 ```bash
-jupyter notebook notebooks/Portfolio_Risk_Intelligence.ipynb
+jupyter notebook notebooks/Portfolio_clean.ipynb
 ```
 
 ### 4. Launch the Streamlit Dashboard
