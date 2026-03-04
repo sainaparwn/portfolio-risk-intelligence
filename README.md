@@ -25,6 +25,10 @@ jupyter notebook Portfolio_Risk_Intelligence.ipynb
 Run Dashboard:
 streamlit run app.py
 
+## 🚀 Live Demo
+
+🔗 [Click here to view the app](https://portfolio-risk-intelligence-tqm3xpsckulyuhuxscogq4.streamlit.app/)
+
 ## Key Findings
 - Risk is more predictable than returns
 - 50% AUC for direction = markets are efficient
